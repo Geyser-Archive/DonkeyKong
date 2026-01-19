@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff7c5c5f8dc0e7642aa914a61cc3d178, type: 3}
+  m_Name: Font_Gold
+  m_EditorClassIdentifier: 
+  letters:
+  - {fileID: 929652911, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1144389367, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 1127957919, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -180106050, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -223167240, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -8671463, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 1719190080, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 599438541, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1858231907, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -75357112, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -453857787, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 2084845814, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 1657351526, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 144698205, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 1239839230, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1945565419, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1406897311, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1819370223, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 870752370, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -483911332, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 77749713, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -863638740, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -275217590, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1217875970, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -848422289, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1249880243, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 349723028, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -417520728, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1346759505, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 889298365, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -884435426, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1379127760, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 6405586, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1843104171, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: 2131368838, guid: dadb16836704ba840a744de602034481, type: 3}
+  - {fileID: -1584028346, guid: dadb16836704ba840a744de602034481, type: 3}
+  upper: 0
+  lower: 0
+  number: 26
